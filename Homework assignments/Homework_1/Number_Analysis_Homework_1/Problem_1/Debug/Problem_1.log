@@ -1,0 +1,3 @@
+﻿  Problem_1.cpp
+D:\Documents\Learning\Number_Analysis\Number_Analysis_Projects\Homework_Assignments\Homework_1\Number_Analysis_Homework_1\Problem_1\Problem_1.cpp(6,20): warning C4305:  'initializing': truncation from 'double' to 'float'
+  Problem_1.vcxproj -> D:\Documents\Learning\Number_Analysis\Number_Analysis_Projects\Homework_Assignments\Homework_1\Number_Analysis_Homework_1\Debug\Problem_1.exe
